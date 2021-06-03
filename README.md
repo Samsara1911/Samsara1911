@@ -2,7 +2,7 @@
 - 👀 I’m interested in PLC's, Robotics, Music, and Photograpy
 - 🌱 I’m currently learning Python and basic app interfaces for mobile
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me ...
+- 📫 How to reach me https://linktr.ee/RobotWorkshop
 
 <!---
 Samsara1911/Samsara1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
